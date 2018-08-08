@@ -1,0 +1,14 @@
+#key: value 冒号后面需要留一个空格
+server:
+  port: 8092 #服务端口
+
+info:
+  build:
+    artifact: "@project.artifactId@"
+    description: "示例项目"
+    spring-boot-version: "@project.parent.version@"
+    version: "@project.version@"
+
+
+
+
