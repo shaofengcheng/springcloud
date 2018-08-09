@@ -5,7 +5,7 @@ server:
 info:
   build:
     artifact: "@project.artifactId@"
-    description: "示例项目"
+    description: "@project.description@"
     spring-boot-version: "@project.parent.version@"
     version: "@project.version@"
 
